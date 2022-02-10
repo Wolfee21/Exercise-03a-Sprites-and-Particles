@@ -167,5 +167,5 @@ Typeface changes, Tweening, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Jason Francis
+Kerrick Wolf
 ```
